@@ -16,7 +16,7 @@ const User = () => {
                     </span>
                     <br/>
                     <span>
-                        Price: $1000.00
+                        Price: $18500.00
                     </span>
                 </div>
                 <div className="btn-wrapper item">
