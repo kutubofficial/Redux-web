@@ -1,12 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
-
+import HomeContainer from './Container/HomeContainer';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <h1>hello Redux</h1>
-      </header>
+      < HomeContainer />
     </div>
   );
 }
